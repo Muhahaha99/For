@@ -1,0 +1,13 @@
+MaxRecoilPower = 0
+m.MinRecoilPower = 0
+m.RecoilPowerStepAmount = 0
+m.MimSpread = 0
+m.MaxSpread = 0
+m.VRecoil = {
+	[1] = 0,
+	[2] = 0
+}
+m.HRecoil = {
+	[1] = 0,
+	[2] = 0
+}
